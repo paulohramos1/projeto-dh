@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "Mobyddyk",
+        "ano": "1851",
+        "editora": "BOMLANDMARK",
+        "preco": 22.50,
+        "estoque": 15
+    },
+    {
+        "titulo": "Harry Potter",
+        "ano": "1997",
+        "editora": "ROCCO",
+        "preco": 30.50,
+        "estoque": 35
+    }
+]
