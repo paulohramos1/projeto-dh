@@ -26,7 +26,7 @@ fs.readFile("./livraria.json", 'novo textto', function (err) {
         return console.log("ERRO")
     }
 
-    console.log("Arquivo craido")
+    console.log("Arquivo novo craido")
 })
 
 
